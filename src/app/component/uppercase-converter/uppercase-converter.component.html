@@ -1,0 +1,4 @@
+<input type="text" [(ngModel)]="myMessage" />
+<button (click)="convert({'message': myMessage})">Send</button>
+<br>
+<h1 style="color: red">{{getMessage() | json}}</h1>
