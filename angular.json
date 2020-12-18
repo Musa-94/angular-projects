@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "countries"
+  "defaultProject": "countries",
+  "cli": {
+    "analytics": "7b072f85-51fa-4e3f-99ec-9cacaf0d44d7"
+  }
 }
